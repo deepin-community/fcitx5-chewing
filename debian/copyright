@@ -1,0 +1,41 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: fcitx5-chewing
+Source: https://github.com/fcitx/fcitx5-chewing
+
+Files: *
+Copyright: 2012-2017 CSSlayer <wengxt@gmail.com>
+           2012 Tai-Lin Chu <tailinchu@gmail.com>
+License: LGPL-2.1+
+
+Files: org.fcitx.Fcitx5.Addon.Chewing.metainfo.xml.in
+Copyright: 2020- CSSlayer <wengxt@gmail.com>
+License: CC0-1.0
+ To the extent possible under law, the author(s) have dedicated all copyright
+ and related and neighboring rights to this software to the public domain
+ worldwide. This software is distributed without any warranty.
+ .
+ The full text of the CC0 1.0 Universal license is available on Debian systems
+ in /usr/share/common-licenses/CC0-1.0
+
+Files: debian/*
+Copyright: 2020- Yao Wei (魏銘廷) <mwei@debian.org>
+License: LGPL-2.1+
+
+License: LGPL-2.1+
+ This library is free software; you can redistribute it and/or
+ modify it under the terms of the GNU Lesser General Public
+ License as published by the Free Software Foundation; either
+ version 2.1 of the License, or (at your option) any later version.
+ .
+ This library is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ Lesser General Public License for more details.
+ .
+ You should have received a copy of the GNU Lesser General Public
+ License along with this library; if not, write to the Free Software
+ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA
+ 02110-1301  USA
+ .
+ On Debian systems, the complete text of the GNU Lesser General Public License
+ version 2.1 can be found in "/usr/share/common-licenses/LGPL-2.1".
